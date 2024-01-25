@@ -1,3 +1,3 @@
 function playGame() {
-    window.open('index.html', '_blank');
+    window.open('index-old.html', '_blank');
 }
